@@ -12,3 +12,5 @@ Download the test script:
 * git clone https://github.com/alfonsobozzelli/testfaust.git
 * cd testfaust
 * faust2jackconsole -osc testfaust.dsp
+
+Now run the testfaust script on your Norns and press K3, you should hear a sound!
